@@ -1,1 +1,1 @@
-This is payment gateway integration of angular & .net
+This is phonepe payment gateway integration template in angular & .net
